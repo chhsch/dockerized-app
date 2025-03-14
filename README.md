@@ -37,8 +37,8 @@ Now, open **Mongo-Express** in the browser:
 ```sh
 http://localhost:8081
 ```
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="img/mongo-express.png" alt="Screenshot 1" width="300"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="img/mongo-express.png" alt="Screenshot 1" width="600" height="300"/>
 </div>
 
 ### 4. Create Database and Collection
